@@ -1,8 +1,9 @@
 # GithubCLI
 Git hub commands step-by-step for beginers
 
-# Step 1 Configuring and connecting to a remote repository
-Reference: https://www.computerhope.com/issues/ch001927.htm
+- Step 1 
+    Configuring and connecting to a remote repository
+    Reference: https://www.computerhope.com/issues/ch001927.htm
 
 # --1
 # move to the project directory root
@@ -18,7 +19,7 @@ $ git config --global user.name "<your name>"
 $ git config --global user.email "<your e-mail>"
 
 # --4
-# Once the above steps have been completed, you'll be ready to connect to a remote repository. To find the repository address, go to a repository on GitHub and click the Clone or download repository link to get the address. For example, we've created a repository called "example" at https://github.com/ArohanGit/GithubCLI.git address. Copy the address to your clipboard.
+# Once the above steps have been completed, you'll be ready to connect to a remote repository. To find the repository address, go to a repository on GitHub and click the Clone or download repository link to get the address. For example, we've created a repository called "GithubCLI" at https://github.com/ArohanGit/GithubCLI.git address. Copy the address to your clipboard.
 
 # --5
 # Once copied go back to the command line and type the following command, where <URL> is the address you copied. To paste that address into the command line right-click in the command line window and click paste.
