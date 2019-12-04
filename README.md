@@ -18,7 +18,7 @@ Reference: https://www.computerhope.com/issues/ch001927.htm
 
 - Once copied go back to the command line and type the following command, where URL is the address you copied. To paste that address into the command line right-click in the command line window and click paste.
 
-	$ git clone URL
+	**$ git clone "remote repository URL"**
 
 - Once the Git repository is created local clone, you'll have a new directory in your current directory with the name of the Git repository.
 
@@ -38,30 +38,30 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
 
 - Initialises the git for the project root
 
-	$ git init
+	**$ git init**
 
 - Adds the remote repo origin
 
-	$ git remote add origin "remote repository URL"
+	**$ git remote add origin "remote repository URL"**
 
 - Verifies the new remote URL
 
-	$ git remote -v
+	**$ git remote -v**
 
 - Adds the files in the local repository and stages them for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
 
-	$ git add .
+	**$ git add .**
 
 - Commits the tracked changes and prepares them to be pushed to a remote repository. To remove this commit and modify   the file, use 'git reset --soft HEAD~1' and commit and add the file again.
 
-	$ git commit -m "First commit"
+	**$ git commit -m "First commit"**
 
 - Pushes the changes in your local repository up to the remote repository you specified as the origin
 
-	$ git push origin master
+	**$ git push origin master**
 
-- Other useful commands
+- **Other useful commands**
 
 	$ git config --list
-
+    
 	$ git config user.name
