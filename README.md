@@ -1,5 +1,7 @@
 # GithubCLI
 Git hub commands step-by-step for beginers
+Also refer popular online book at https://git-scm.com/book/en/v2
+
 
 # Configuring and connecting to a remote repository
 Reference: https://www.computerhope.com/issues/ch001927.htm
