@@ -66,10 +66,7 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
     
 	$ git config user.name
 
-<<<<<<< HEAD
 
 	chnages made locally
 	
-=======
 Some changes made remotely
->>>>>>> 74bcc0db0d4a39c49e7660e7d97a1100529df425
