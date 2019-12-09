@@ -1,6 +1,9 @@
 # GithubCLI
 Git hub commands step-by-step for beginers
-Also refer popular online book at https://git-scm.com/book/en/v2
+
+Refer following,
+- popular online book at https://git-scm.com/book/en/v2
+- Visual studio Code, Git integration at https://code.visualstudio.com/docs/editor/versioncontrol
 
 
 # Configuring and connecting to a remote repository
