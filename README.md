@@ -65,3 +65,4 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
 	$ git config --list
     
 	$ git config user.name
+add some more commands
