@@ -66,3 +66,4 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
     
 	$ git config user.name
 
+Some changes made remotely
