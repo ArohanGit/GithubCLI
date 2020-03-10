@@ -1,5 +1,5 @@
 # GithubCLI
-Git hub commands step-by-step for beginers - hotfix
+Git hub commands step-by-step for beginers - hotfix - Developers release
 
 Install Git
 - Windows: https://git-scm.com/download/win
