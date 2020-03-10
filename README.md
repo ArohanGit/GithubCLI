@@ -1,5 +1,8 @@
 # GithubCLI
-Git hub commands step-by-step for beginers - Developer also work on same line as new feature
+Git hub commands step-by-step for beginers
+
+Install Git
+- Windows: https://git-scm.com/download/win
 
 Refer following,
 - popular online book at https://git-scm.com/book/en/v2
