@@ -5,6 +5,11 @@ Refer following,
 - popular online book at https://git-scm.com/book/en/v2
 - Visual studio Code, Git integration at https://code.visualstudio.com/docs/editor/versioncontrol
 
+Git commands
+- https://git-scm.com/docs
+
+Basic branching and merging
+- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 # Configuring and connecting to a remote repository
 Reference: https://www.computerhope.com/issues/ch001927.htm
