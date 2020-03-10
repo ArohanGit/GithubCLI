@@ -17,7 +17,7 @@ Basic branching and merging
 # Stage-Commit-Pull-Push
 
 - Master
-- 	Developers: Pull (from Master), Change, Save, Stage, Commit, Pull (from Developer), Resolve 		conflicts and then Push (to Developer)
+- Developers: Pull (from Master), Change, Save, Stage, Commit, Pull (from Developer), Resolve 		  conflicts and then Push (to Developer)
 
 # Configuring and connecting to a remote repository
 Reference: https://www.computerhope.com/issues/ch001927.htm
