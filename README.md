@@ -1,5 +1,5 @@
 # GithubCLI
-Git hub commands step-by-step for beginers
+Git hub commands step-by-step for beginers - Developer also work on same line as new feature
 
 Refer following,
 - popular online book at https://git-scm.com/book/en/v2
