@@ -1,5 +1,5 @@
 # GithubCLI
-Git hub commands step-by-step for beginers - hotfix - Developers release- Prakash - prasad
+Git hub commands step-by-step for beginers
 
 Install Git
 - Windows: https://git-scm.com/download/win
@@ -13,6 +13,10 @@ Git commands
 
 Basic branching and merging
 - https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+# Stage-Commit-Pull-Push
+
+- Developers
 
 # Configuring and connecting to a remote repository
 Reference: https://www.computerhope.com/issues/ch001927.htm
