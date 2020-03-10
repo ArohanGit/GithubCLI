@@ -1,5 +1,5 @@
 # GithubCLI
-Git hub commands step-by-step for beginers
+Git hub commands step-by-step for beginers - hotfix
 
 Refer following,
 - popular online book at https://git-scm.com/book/en/v2
