@@ -1,6 +1,9 @@
 # GithubCLI
 Git hub commands step-by-step for beginers - hotfix
 
+Install Git
+- Windows: https://git-scm.com/download/win
+
 Refer following,
 - popular online book at https://git-scm.com/book/en/v2
 - Visual studio Code, Git integration at https://code.visualstudio.com/docs/editor/versioncontrol
