@@ -83,3 +83,9 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
 	$ git config --list
     
 	$ git config user.name
+
+- **Visual Studio Code useful commands**
+
+	Refresh git bracnhes shown by VS Code
+	
+	**$ git fetch --prune**
