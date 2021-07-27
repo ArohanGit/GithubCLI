@@ -87,21 +87,37 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
 # Cloning other repository to new repository
 
 - Create new repository on GitHub (new-repository)
-  Url: https://github.com/other-account/new-repository.git  
+
+  Url: https://github.com/other-account/new-repository.git 
+
 - Clone the source repository to local machine  (other-repository)
+
   $ git clone https://github.com/other-account/other-repository.git
+
 - Change directory to other-repository
+
 - Check github origin, this will be to other repository currently
+
   $ git remote -v
+
 - remove this origin by
+
   $ git remote rm origin
+
 - Confirm remote origin is removed by
+
   $ git remote -v
+
 - Add new origin
+
   $ git add origin https://github.com/other-account/new-repository.git
+
 - Confirm if remote origin is set to new repository
+
   $ git remote -v
+
 - Push to new repository master
+
   $ git push origin master
 
 - **Visual Studio Code useful commands**
