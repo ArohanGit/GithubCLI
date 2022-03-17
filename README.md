@@ -120,8 +120,18 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
 
   $ git push origin master
 
+- When gitignore files is changed, we need to give following commands to remove cached files from git index
+
+  $ git rm -r --cached .
+  $ git add .
+  
+ And then commit using new ignore list
+ 
+  
 - **Visual Studio Code useful commands**
 
 	Refresh git bracnhes shown by VS Code
 	
 	**$ git fetch --prune**
+	
+	
