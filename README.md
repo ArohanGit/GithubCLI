@@ -123,6 +123,7 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
 - When gitignore files is changed, we need to give following commands to remove cached files from git index
 
   $ git rm -r --cached .
+  
   $ git add .
   
  And then commit using new ignore list
