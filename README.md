@@ -138,3 +138,5 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
 - **Protectting Master Branch **
 
 	Settings -> branches -> Select branch -> Add Protection rule
+
+- Can owner push to master ?
