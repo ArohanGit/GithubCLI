@@ -17,7 +17,7 @@ Basic branching and merging
 # Stage-Commit-Pull-Push
 
 - Master
-- 	Developers: Pull (from Master), Change, Save, Stage, Commit, Pull (from Developer), Resolve 		conflicts and then Push (to Developer)
+- Developers: Pull (from Master), Change, Save, Stage, Commit, Pull (from Developer), Resolve 		  conflicts and then Push (to Developer)
 
 # Configuring and connecting to a remote repository
 Reference: https://www.computerhope.com/issues/ch001927.htm
@@ -83,3 +83,56 @@ Reference:  https://help.github.com/en/github/importing-your-projects-to-github/
 	$ git config --list
     
 	$ git config user.name
+
+# Cloning other repository to new repository
+
+- Create new repository on GitHub (new-repository)
+
+  Url: https://github.com/other-account/new-repository.git 
+
+- Clone the source repository to local machine  (other-repository)
+
+  $ git clone https://github.com/other-account/other-repository.git
+
+- Change directory to other-repository
+
+- Check github origin, this will be to other repository currently
+
+  $ git remote -v
+
+- remove this origin by
+
+  $ git remote rm origin
+
+- Confirm remote origin is removed by
+
+  $ git remote -v
+
+- Add new origin
+
+  $ git add origin https://github.com/other-account/new-repository.git
+
+- Confirm if remote origin is set to new repository
+
+  $ git remote -v
+
+- Push to new repository master
+
+  $ git push origin master
+
+- When gitignore files is changed, we need to give following commands to remove cached files from git index
+
+  $ git rm -r --cached .
+  
+  $ git add .
+  
+ And then commit using new ignore list
+ 
+  
+- **Visual Studio Code useful commands**
+
+	Refresh git bracnhes shown by VS Code
+	
+	**$ git fetch --prune**
+	
+	
